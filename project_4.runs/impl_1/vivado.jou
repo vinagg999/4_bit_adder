@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Mar 16 15:20:47 2018
+# Process ID: 4156
+# Current directory: C:/Users/eictguest/Desktop/Vinay_Subrat_Sachin/4_bit_adder/project_4.runs/impl_1
+# Command line: vivado.exe -log full_adder_4.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source full_adder_4.tcl -notrace
+# Log file: C:/Users/eictguest/Desktop/Vinay_Subrat_Sachin/4_bit_adder/project_4.runs/impl_1/full_adder_4.vdi
+# Journal file: C:/Users/eictguest/Desktop/Vinay_Subrat_Sachin/4_bit_adder/project_4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source full_adder_4.tcl -notrace
